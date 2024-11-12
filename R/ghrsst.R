@@ -19,7 +19,7 @@ ghrsstfiles <- function() {
 
 #' Read GHRSST
 #'
-#' SST in Kelvin
+#' SST in celcius from The Group for High Resolution Sea Surface Temperature (GHRSST).
 #' @param date datetime
 #' @param time.resolution daily
 #' @param varname one of "analysed_sst", "analysis_error", "mask", "sea_ice_fraction"
